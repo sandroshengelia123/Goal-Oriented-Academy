@@ -3,7 +3,8 @@ last_name = 'shengelia'
 proffesion = 'web develooper'
 age = 16 
 country = 'georgia'
-print(name + last_name + proffesion + age + country )
+print(name + last_name +  proffesion +  age + country )
+
 
 
 
