@@ -20,7 +20,7 @@ print(10 + 10 + 10 - 5 + 5 // 5 + 320 * 320 + 4 ** 4 + 320 + 320 + 340 - 200 + 1
 
 name = sandro 
 last_name = shengelia
-proffesion = web developer
+proffesion = web proffesion
 age = 16
 
 print(name + last_name + proffesion + age)
